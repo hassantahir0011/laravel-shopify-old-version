@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.3.0",
         "guzzlehttp/guzzle": "^6.2.1",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^v5.3.4"
     },
     "autoload": {
         "psr-4": {
